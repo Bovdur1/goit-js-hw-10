@@ -1,0 +1,44 @@
+.form-wrapper {
+    width: 408px;
+    padding: 24px;
+    border-radius: 8px;
+    background: #FFF;
+    margin: 100px auto;
+}
+
+.delay {
+    display: block;
+    width: 360px;
+    height: 40px;
+    padding-left: 10px;
+    margin: 8px 0 16px 0;
+}
+
+.promise-state-fieldset {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+    height: 78px;
+    width: 360px;
+    margin: 0;
+    border: solid 1px #000;
+}
+
+.submit-btn {
+    width: 360px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: #4E75FF;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
+    border: none;
+    margin-top: 24px;
+}
+
+.submit-btn:hover {
+    background: #6C8CFF;
+}
